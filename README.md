@@ -25,15 +25,15 @@ Este es un proyecto sencillo de una API REST desarrollada con **Spring Boot** do
 
 ## ⚙️ Configuración de la aplicación
 En `src/main/resources/application.properties`:
-```properties
+
 # Puerto del servidor
-server.port=8081
+```server.port=8081```
 
 # Nombre de la aplicación
-spring.application.name=MiAppSpringBoot
+```spring.application.name=MiAppSpringBoot```
 
 # Mensaje de bienvenida
-app.mensaje.bienvenida=¡Bienvenido a mi API Spring Boot!
+```app.mensaje.bienvenida=¡Bienvenido a mi API Spring Boot!```
 
 ---
 
